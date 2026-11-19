@@ -1,0 +1,5 @@
+window.VIGOR_CONFIG = {
+  SUPABASE_URL: "",
+  SUPABASE_ANON_KEY: "",
+  AI_FUNCTION_URL: ""
+};
